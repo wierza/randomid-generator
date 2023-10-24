@@ -1,0 +1,1 @@
+This is a random ID generator. Generates a random string with letters and numbers. For proper operation, one parameter must be provided, which will determine the number of characters in the id.
